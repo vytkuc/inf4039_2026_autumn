@@ -1,11 +1,12 @@
-# inf5007
-Neural Networks / Neuroniniai tinklai 
+# inf4039
+Giliojo mokymo sistemų taikymai / Deep Learning Systems
 
 Do the labs using Python in your local system or using Google Colab.
 
 Table of contents:
-1. Information about individual assignment
-2. Data preparation
+0. Information about individual assignment
+1. Data preparation
+2. Machine learning
 3. Simple neural network 
 4. Multilayer perceptron (classification and prediction)
 5. Optimization of parameters
