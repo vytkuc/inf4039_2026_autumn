@@ -4,7 +4,8 @@ Giliojo mokymo sistemų taikymai / Deep Learning Systems
 Do the labs using Python in your local system or using Google Colab.
 
 Table of contents:
-0. Information about individual assignment
+
+0. Information about individual project
 1. Data preparation
 2. Machine learning
 3. Simple neural network 
