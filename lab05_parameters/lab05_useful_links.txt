@@ -1,0 +1,21 @@
+Keras:
+https://keras.io/api/callbacks/early_stopping/
+
+Activation functions:
+https://www.geeksforgeeks.org/deep-learning/activation-function-in-tensorflow/
+https://www.geeksforgeeks.org/deep-learning/relu-activation-function-in-deep-learning/
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WOakYnteRx1JHdYah6V7cf-CRQGcDMaM-xt6PubpuakP8fchDHUSmYE&s=10
+https://miro.medium.com/v2/resize:fit:1400/1*aELZz_ams6I0v7FOqvuZ3Q.jpeg
+
+Optimizers:
+https://www.geeksforgeeks.org/deep-learning/optimization-rule-in-deep-neural-networks/
+
+Early stopping:
+https://www.geeksforgeeks.org/deep-learning/using-early-stopping-to-reduce-overfitting-in-neural-networks/
+https://consuledge.com.au/wp-content/uploads/2025/01/early-stopping.png
+
+Dropout:
+https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+
+Underfitting and overfitting:
+https://pub.towardsai.net/underfitting-and-overfitting-with-python-examples-5a66cb470ebd
